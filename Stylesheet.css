@@ -1,0 +1,21 @@
+body{
+	background-image: url("santri2.jpg");
+	background-size: 200px;
+}
+.center{
+	text-align: center;
+}
+.gambar{
+	width: 300px;
+	border: 10px solid transparent;
+	padding: 10px;
+}
+
+.gambar1{
+	width: 400px;
+	border: 10px solid transparent;
+	padding: 10px;
+}
+.zoom{
+	font-size: : 400px;
+}
